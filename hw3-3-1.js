@@ -15,3 +15,12 @@ if (lockPick >= 30){
 {
     console.log("The door is still locked");
 }
+
+let lockpickLvl = 10;
+let luckLvl = 20:
+
+if(lockpickingLvl > 30 || luck > 70{
+   console.log("You unlocked the door);
+   }else{
+   console.log("The door remains unlocked) 
+   }
